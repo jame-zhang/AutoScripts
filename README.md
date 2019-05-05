@@ -1,2 +1,3 @@
 # AutoScript
-the script used to do things automatically
+自动化完成
+the scripts used to do things automatically
